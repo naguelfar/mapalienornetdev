@@ -952,6 +952,19 @@
         {
          "firstgid":662,
          "source":"fantasy.tsx"
+        }, 
+        {
+         "columns":11,
+         "firstgid":1726,
+         "image":"tilesets\/tileset1.png",
+         "imageheight":374,
+         "imagewidth":374,
+         "margin":0,
+         "name":"tileset1",
+         "spacing":0,
+         "tilecount":121,
+         "tileheight":34,
+         "tilewidth":34
         }],
  "tilewidth":32,
  "type":"map",
