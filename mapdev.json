@@ -938,20 +938,56 @@
          "tilewidth":32
         }, 
         {
+         "columns":11,
          "firstgid":321,
-         "source":"tileset1.tsx"
+         "image":"tilesets\/tileset1.png",
+         "imageheight":374,
+         "imagewidth":374,
+         "margin":0,
+         "name":"tileset1",
+         "spacing":0,
+         "tilecount":121,
+         "tileheight":34,
+         "tilewidth":34
         }, 
         {
+         "columns":12,
          "firstgid":442,
-         "source":"tileset2.tsx"
+         "image":"tilesets\/tileset2.png",
+         "imageheight":340,
+         "imagewidth":408,
+         "margin":0,
+         "name":"tileset2",
+         "spacing":0,
+         "tilecount":120,
+         "tileheight":34,
+         "tilewidth":34
         }, 
         {
+         "columns":10,
          "firstgid":562,
-         "source":"tileset3.2.tsx"
+         "image":"tilesets\/tileset3.2.png",
+         "imageheight":340,
+         "imagewidth":340,
+         "margin":0,
+         "name":"tileset3.2",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":34,
+         "tilewidth":34
         }, 
         {
+         "columns":8,
          "firstgid":662,
-         "source":"fantasy.tsx"
+         "image":"tilesets\/fantasy.png",
+         "imageheight":4256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"fantasy",
+         "spacing":0,
+         "tilecount":1064,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":11,
