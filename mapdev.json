@@ -248,6 +248,113 @@
         }, 
         {
          "draworder":"topdown",
+         "id":27,
+         "name":"texte",
+         "objects":[
+                {
+                 "height":18.84375,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"404's world",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":114.55,
+                 "x":1141.89427977996,
+                 "y":806.116695640612
+                }, 
+                {
+                 "height":18.84375,
+                 "id":6,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Graph's world",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":108.55,
+                 "x":706.940375438303,
+                 "y":550.029704859743
+                }, 
+                {
+                 "height":18.84375,
+                 "id":7,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Webmarketing's world",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":176.55,
+                 "x":280.93,
+                 "y":704.65
+                }, 
+                {
+                 "height":18.84375,
+                 "id":8,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Stat's world",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":90.55,
+                 "x":966.18,
+                 "y":277.4
+                }, 
+                {
+                 "height":18.84375,
+                 "id":9,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"CPM's world",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":94.55,
+                 "x":720.335694956071,
+                 "y":222.238356660232
+                }, 
+                {
+                 "height":18.84375,
+                 "id":10,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hello world",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":89.546875,
+                 "x":1156.865519241,
+                 "y":410.560789880624
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
          "objects":[],
@@ -257,8 +364,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":27,
- "nextobjectid":1,
+ "nextlayerid":28,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
