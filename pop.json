@@ -21,7 +21,7 @@
          "name":"fond",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
@@ -37,6 +37,47 @@
                  "name":"zone",
                  "type":"string",
                  "value":"popUp0Welcome"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2049, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":10,
+         "id":7,
+         "name":"son",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":"sounds\/chew.mp3"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":10,
+         "id":8,
+         "name":"son et lien",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/fr.wikipedia.org\/wiki\/Chewbacca"
+                }, 
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":"sounds\/chew.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -62,11 +103,11 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":7,
+ "nextlayerid":9,
  "nextobjectid":8,
  "orientation":"orthogonal",
  "properties":[
@@ -76,7 +117,7 @@
          "value":"ile.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -107,6 +148,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":10
 }
