@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":34,
@@ -266,6 +265,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Chewbacca"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/chew.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -648,7 +652,7 @@
  "nextobjectid":28,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -3360,6 +3364,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":80
 }
