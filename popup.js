@@ -17,7 +17,7 @@ var isCoWebSiteOpened =  false;
 
 // Premier popUp quand on entre dans la zone zoneWelcome en sortant de la barque
 WA.onEnterZone(zone0WelcomeName, () => {
-   currentPopup =  WA.openPopup("popUpWelcome","Bienvenue dans les bureaux du Groupe Aquitem. Si vous souhaitez personnaliser votre bureau ne pas hésitez à contacter le service innovation.",[
+   currentPopup =  WA.openPopup("popUpWelcome","Bienvenue dans les bureaux du Groupe Aquitem. Si vous souhaitez personnaliser votre bureau ne pas hésiter à contacter le service innovation.",[
         {
             label: "Website",
             className: "popUpElement",
