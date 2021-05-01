@@ -30,6 +30,12 @@
          "id":11,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/theme.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
@@ -193,6 +199,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Anakin_Skywalker"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/vador.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,6 +222,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Boba_Fett"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/mando.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,9 +263,14 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/C-3PO"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/6po.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -288,6 +309,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Lando_Calrissian"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/lando.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -306,6 +332,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Han_Solo"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/han.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -324,6 +355,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Obi-Wan_Kenobi"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/obiwan.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -342,6 +378,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Jabba_le_Hutt"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/jabba.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -360,6 +401,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Luke_Skywalker"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/luke.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -378,6 +424,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Leia_Organa"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/leia.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -396,6 +447,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Yoda"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/yoda.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -414,6 +470,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fr.wikipedia.org\/wiki\/Palpatine"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/palpa.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2399,6 +2460,187 @@
          "spacing":0,
          "tilecount":1204,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":443,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":444,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":445,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":446,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":447,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":471,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":472,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":473,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":474,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":475,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":499,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":500,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":501,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":502,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":503,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":527,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":528,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":529,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":530,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":531,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
