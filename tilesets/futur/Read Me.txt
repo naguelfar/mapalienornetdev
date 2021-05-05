@@ -1,0 +1,79 @@
+============================================================
+read me.txt
+
+Futuristic Tiles
+16-02-2016
+============================================================
+
+READ THIS CAREFULLY BEFORE INSTALLING OR USING Futuristic Tiles.
+
+I. Introduction
+
+Thank you for purchasing the resource pack, "Futuristic Tiles", created by artist Celianna. This Resource Pack contains a collection of futuristic tiles, to be used in your project. This resource pack is also compatible with the full version of "RPG MAKER VX and RPG Maker VX Ace" and can be used to create your own game.
+
+This explains the basic instructions of how to use the materials contained in this Resource Pack.
+
+------------------------------------------------------------
+
+II. System Requirements
+
+None
+
+------------------------------------------------------------
+
+III. How to use the resource pack
+
+The Futuristic Tiles (map: "System") are set up on a 32x32px grid, with the exception of the files named TileA1, TileA2, TileA3 and TileA4, these have a 16x16px grid. TileA1 has 3 frames to create animated water. The images in map: "Characters" are divided into 3 animated frames, with 4 directions. Some of these are compiled in an image that contains 8 different animated graphics. The images in map: "Parallaxes" contain large backgrounds.
+
+------------------------------------------------------------
+
+IV. "Futuristic Tiles" END USER LICENSE AGREEMENT
+
+IMPORTANT, READ CAREFULLY.
+
+PLEASE READ THIS END USER LICENSE AGREEMENT (THE "AGREEMENT") CAREFULLY BEFORE USING THIS RESOURCE PACK. IF YOU (THE "USER") DO NOT AGREE TO THE TERMS, CONDITIONS AND LIMITATIONS OF THIS AGREEMENT, PROMPTLY DELETE THE DIGITAL CONTENT FROM YOUR COMPUTER.
+
+
+1. The graphics included in this product (the "resource pack") may be used with any software that supports PNG files to create a game, and may be used for promotional material for the User's game. User can create, distribute, or sell their original game by using the resource pack only if they meet all the following conditions:  
+
+1.1 You must be a legitimate owner of this resource pack.
+
+1.2 You can only use the resource pack to create a game.
+
+1.3 Your game must include additional documentation that clearly indicates the use of the resource pack and the following copy:[Copyright](C) 2015 Pixanna; artist Celianna.
+
+1.4 Solely used for the creation and/or promotion of your game, you can edit, process, and modify the materials contained in the resource pack. 
+
+1.5 Do not sell, distribute, lease, or transfer the resource pack itself (even if the materials were edited, processed, or modified by the User). 
+
+2. Pixanna will bear no responsibility for any damages to the User's computer caused by misuse of the product. 
+
+3. By using the product, the User accepts the full terms and takes sole responsibility for use of the product.
+
+4. Pixanna will bear no responsibility for any issues and disputes between third parties, regardless of the content, that occur as a result of the creation, distribution, and release of the User's game by using the product.
+
+5. There will be no refund after the original purchase has been made.
+
+------------------------------------------------------------
+
+Artist
+Celianna
+
+Publisher
+Pixanna
+
+------------------------------------------------------------
+
+VI. Contact Information
+
+For support: 
+info@pixanna.nl
+
+Official website:
+http://www.pixanna.nl
+
+------------------------------------------------------------
+
+(C) 2015 Pixanna
+
+RPG Maker VX, RPG Maker VX Ace are either registered trademarks or trademarks of ENTERBRAIN, INC in Japan and/or other countries. All other marks, products and company names are the property of their respective owners.
